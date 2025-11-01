@@ -1,5 +1,14 @@
 # 🏙️ Smart City Energy Consumption Analytics
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-green?logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+
+A complete **Data Analytics Project** analyzing *Smart City energy consumption patterns* using Python and Power BI.  
+This project identifies high-demand zones, seasonal trends, and hourly usage peaks to help optimize urban energy distribution.  
+
 ### 📌 Project Overview
 This project analyzes simulated smart city energy consumption data to uncover usage trends, identify peak demand periods, and suggest strategies for energy optimization.  
 The dataset represents hourly energy usage across five city zones throughout 2024.
