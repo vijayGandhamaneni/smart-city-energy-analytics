@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+
+If your notebooks use Jupyter, add:
+
+jupyter==1.0.0
+
+
+If you plan to connect to Power BI or do future automation:
+
+openpyxl==3.1.3
+
